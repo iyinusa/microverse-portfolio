@@ -1,0 +1,32 @@
+#header {
+    background-color: #BE3144;
+}
+
+#header .nav {
+    text-align: right;
+    height: inherit;
+}
+#header .nav a {
+    padding: 25px 15px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+#header .nav a:hover {
+    background-color: #45567D;
+}
+
+#about {
+    background-color: #323437;
+    text-align: center;
+    padding: 20% 15px;
+}
+#about > .title {
+    color: #fff;
+    font-size: 56px;
+    font-weight: bold;
+}
+#about>.desc {
+    color: #B43042;
+    font-size: 26px;
+}
